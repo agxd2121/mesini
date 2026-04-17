@@ -2,8 +2,13 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
+<<<<<<< HEAD
 1. ____________________ | ____________________ | ____________________
 2. _____guille_________ | _integrador______________ | __muy interesado__________________
+=======
+1. Agustin Fleitas | Aprendiz de desarollador | Comprender los fundamentos de la computación
+2. ____________________ | ____________________ | ____________________
+>>>>>>> 14410a6bfa38905c7fddbe2a6fa26edcb7fcd38e
 3. ____________________ | ____________________ | ____________________
 4. ____________________ | ____________________ | ____________________
 5. ____________________ | ____________________ | ____________________
